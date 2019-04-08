@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>Classic/1.png</file>
+        <file>Classic/2.png</file>
+        <file>Classic/3.png</file>
+        <file>Classic/4.png</file>
+        <file>Classic/5.png</file>
+        <file>Classic/6.png</file>
+        <file>Classic/7.png</file>
+        <file>Classic/8.png</file>
+        <file>Classic/9.png</file>
+        <file>Classic/10.png</file>
+        <file>Classic/11.png</file>
+        <file>Classic/12.png</file>
+        <file>Classic/13.png</file>
+        <file>Classic/14.png</file>
+        <file>Classic/15.png</file>
+        <file>Gelik/1.png</file>
+        <file>Gelik/2.png</file>
+        <file>Gelik/3.png</file>
+        <file>Gelik/4.png</file>
+        <file>Gelik/5.png</file>
+        <file>Gelik/6.png</file>
+        <file>Gelik/7.png</file>
+        <file>Gelik/8.png</file>
+        <file>Gelik/9.png</file>
+        <file>Gelik/10.png</file>
+        <file>Gelik/11.png</file>
+        <file>Gelik/12.png</file>
+        <file>Gelik/13.png</file>
+        <file>Gelik/14.png</file>
+        <file>Gelik/15.png</file>
+        <file>15.png</file>
+        <file>15.ico</file>
+    </qresource>
+</RCC>
